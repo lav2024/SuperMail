@@ -34,4 +34,5 @@ Generates a clear, relevant response instantly
 
 # 📽️ Watch Demo on YouTube 
 # 📄 Read Full Blog Post
-# 💡 Built as a capstone project to explore real-world applications of GenAI in support automation. Contributions, suggestions, and stars are welcome! 🌟
+Else view in my kaagle website(https://www.kaggle.com/lavsss2810) where I uploaded the notebook publicly..
+💡 Built as a capstone project to explore real-world applications of GenAI in support automation. Contributions, suggestions, and stars are welcome! 🌟
